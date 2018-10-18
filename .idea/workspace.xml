@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98bc5a5e-db09-48b7-88ad-390923974d05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/process_thread/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/process_thread/process_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/process_thread/process_model_pool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python3-webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python3-webapp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="98bc5a5e-db09-48b7-88ad-390923974d05" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,8 +148,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/process_thread/process_model_pool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="75">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding>
                 <element signature="e#2#34#0" expanded="true" />
                 <marker date="1539792914356" expanded="true" signature="83:84" ph="..." />
@@ -292,8 +284,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1325" />
-    <option name="y" value="30" />
+    <option name="x" value="1324" />
+    <option name="y" value="79" />
     <option name="width" value="1260" />
     <option name="height" value="689" />
   </component>
@@ -528,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539748744968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="flask">
+      <created>1539793793320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539793793320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -541,23 +540,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1325" y="30" width="1260" height="689" extended-state="0" />
-    <editor active="true" />
+    <frame x="1324" y="79" width="1260" height="689" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.64315355" visible="true" weight="0.19868638" />
-      <window_info id="Structure" order="1" sideWeight="0.35684648" side_tool="true" visible="true" weight="0.19868638" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69087136" visible="true" weight="0.19868638" />
+      <window_info id="Structure" order="1" sideWeight="0.30912864" side_tool="true" weight="0.19868638" />
       <window_info id="Favorites" order="2" sideWeight="0.5015674" side_tool="true" weight="0.18133895" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49815497" visible="true" weight="0.19262981" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49815497" weight="0.19262981" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49973643" weight="0.39865997" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49973643" weight="0.3283082" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49973643" weight="0.2562814" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49973643" visible="true" weight="0.2562814" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.501845" side_tool="true" weight="0.27549946" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49973643" weight="0.36515912" />
       <window_info anchor="right" id="R Packages" weight="0.32928678" />
@@ -796,8 +794,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/process_thread/process_model_pool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
             <element signature="e#2#34#0" expanded="true" />
             <marker date="1539792914356" expanded="true" signature="83:84" ph="..." />
