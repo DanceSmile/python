@@ -1,51 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98bc5a5e-db09-48b7-88ad-390923974d05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alone_package/alone_package_psutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io_action/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io_action/io_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/process_master_woker_worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/process_master_worker_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/process_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/process_model_pool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/process_model_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/process_model_sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/thread_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/thread_model_lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_thread/thread_model_threadlocal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python3-webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python3-webapp.iml" afterDir="false" />
+    <list default="true" id="98bc5a5e-db09-48b7-88ad-390923974d05" name="Default Changelist" comment="io file">
+      <change afterPath="$PROJECT_DIR$/alone_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alone_package/alone_package_Pillow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alone_package/alone_package_chardet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alone_package/alone_package_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alone_package/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alone_package/code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alone_package/filter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alone_package/thumbnil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/___init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/test.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/gui_tk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io_action/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klass/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klass/klass_attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klass/klass_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klass/klass_class_instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klass/klass_extends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klass/klass_get_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klass/klass_property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klass/klass_slots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sock/baidu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sock/sock_udp_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sock/sock_udp_server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/async_io/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/async_io/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/async_io/async_aiohttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/async_io/async_aiohttp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/async_io/async_async_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/async_io/async_async_wait.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/async_io/async_asyncio.py" beforeDir="false" afterPath="$PROJECT_DIR$/async_io/async_asyncio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/async_io/async_coroutines.py" beforeDir="false" afterPath="$PROJECT_DIR$/async_io/async_coroutines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/async_io/js_async.js" beforeDir="false" afterPath="$PROJECT_DIR$/async_io/js_async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/db/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/db/db_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/db_mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/db/db_orm_SQLAlchemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/db_orm_SQLAlchemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/db/db_sqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/db_sqlite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mail/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mail/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mail/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mail/mail_pop3.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail_pop3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mail/mail_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail_send.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/process_thread/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/process_thread/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/process_thread/process_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/process_thread/process_model_pool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/sock/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sock/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/sock/sock_tcp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/sock/sock_tcp_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/sock/sock_tcp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/sock/sock_tcp_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/web/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/web/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/templates/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/web/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/web/templates/sign.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/templates/sign.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/web/web_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/web_flask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/web/web_flask_mvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/web_flask_mvc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/web/web_wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/web_wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +71,7 @@
           <entry key="html" value="8" />
           <entry key="jpg" value="6" />
           <entry key="js" value="1" />
-          <entry key="py" value="65" />
+          <entry key="py" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -97,25 +80,25 @@
           <entry key="Image" value="6" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="65" />
+          <entry key="Python" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="26" />
+          <entry key="Python Console" value="46" />
           <entry key="dummy" value="27" />
           <entry key="html" value="385" />
           <entry key="js" value="42" />
-          <entry key="py" value="14361" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="16802" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="385" />
           <entry key="JavaScript" value="42" />
-          <entry key="PLAIN_TEXT" value="32" />
-          <entry key="Python" value="14387" />
+          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="Python" value="16848" />
         </counts>
       </usages-collector>
     </session>
@@ -155,106 +138,106 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_thread/thread_model_threadlocal.py">
+        <entry file="file://$PROJECT_DIR$/klass/klass_basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="147">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1539848616088" expanded="true" signature="180:185" ph="..." />
-                <marker date="1539848616088" expanded="true" signature="249:303" ph="..." />
+                <marker date="1539917202017" expanded="true" signature="120:754" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_thread/process_master_worker_master.py">
+        <entry file="file://$PROJECT_DIR$/klass/klass_class_instance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="338">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#26#38#0" expanded="true" />
-                <marker date="1539854562462" expanded="true" signature="178:183" ph="..." />
+                <marker date="1539919045752" expanded="true" signature="96:107" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_thread/process_master_woker_worker.py">
+        <entry file="file://$PROJECT_DIR$/klass/klass_extends.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="277">
+              <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
               <folding>
-                <marker date="1539857082425" expanded="true" signature="103:114" ph="..." />
+                <marker date="1539921400835" expanded="true" signature="266:476" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/io_action/__init__.py">
+        <entry file="file://$PROJECT_DIR$/klass/klass_get_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="407">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <marker date="1539922346029" expanded="true" signature="37:42" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/io_action/file">
+        <entry file="file://$PROJECT_DIR$/klass/klass_attribute.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+            <state relative-caret-position="286">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/klass/klass_slots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <marker date="1539930329130" expanded="true" signature="112:263" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/klass/klass_property.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/io_action/io_file.py">
+        <entry file="file://$PROJECT_DIR$/basic/___init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            <state relative-caret-position="390">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_thread/process_model_queue.py">
+        <entry file="file://$PROJECT_DIR$/alone_package/alone_package_psutil.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#58#101#0" expanded="true" />
-                <marker date="1539836433355" expanded="true" signature="313:475" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_thread/process_model_sub.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_thread/process_model.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_thread/process_model_pool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="442">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -279,6 +262,9 @@
       <find>maker</find>
       <find>by</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -286,16 +272,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/async_io/asyncio_async_wait.py" />
-        <option value="$PROJECT_DIR$/demo/async_io/async_aip_http.py" />
-        <option value="$PROJECT_DIR$/demo/async_io/async_async_wait.py" />
-        <option value="$PROJECT_DIR$/demo/async_io/async_asyncio.py" />
-        <option value="$PROJECT_DIR$/demo/async_io/async_aiohttp.py" />
-        <option value="$PROJECT_DIR$/demo/async_io/js_async.js" />
-        <option value="$PROJECT_DIR$/demo/web/__init__.py" />
-        <option value="$PROJECT_DIR$/demo/async_io/__init__.py" />
-        <option value="$PROJECT_DIR$/demo/web/web_wsgi.py" />
-        <option value="$PROJECT_DIR$/demo/web/web_flask.py" />
         <option value="$PROJECT_DIR$/demo/web/templates/home.html" />
         <option value="$PROJECT_DIR$/demo/web/templates/form.html" />
         <option value="$PROJECT_DIR$/demo/web/web_flask_mvc.py" />
@@ -337,6 +313,16 @@
         <option value="$PROJECT_DIR$/demo/io_action/io_file.py" />
         <option value="$PROJECT_DIR$/io_action/__init__.py" />
         <option value="$PROJECT_DIR$/io_action/io_file.py" />
+        <option value="$PROJECT_DIR$/klass/__init__.py" />
+        <option value="$PROJECT_DIR$/klass/klass_basic.py" />
+        <option value="$PROJECT_DIR$/klass/klass_class_instance.py" />
+        <option value="$PROJECT_DIR$/klass/klass_extends.py" />
+        <option value="$PROJECT_DIR$/klass/klass_get_info.py" />
+        <option value="$PROJECT_DIR$/klass/klass_attribute.py" />
+        <option value="$PROJECT_DIR$/klass/klass_slots.py" />
+        <option value="$PROJECT_DIR$/klass/klass_property.py" />
+        <option value="$PROJECT_DIR$/module/__init__.py" />
+        <option value="$PROJECT_DIR$/basic/___init__.py" />
       </list>
     </option>
   </component>
@@ -347,9 +333,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2152" />
-    <option name="width" value="1390" />
-    <option name="height" value="999" />
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -365,16 +351,6 @@
               <item name="python3-webapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3-webapp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="io_action" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3-webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="mail" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -385,7 +361,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -409,8 +385,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.io_file">
-    <configuration name="io_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.___init__">
+    <configuration name="___init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -418,11 +394,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/io_action" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/io_action/io_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/___init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -431,7 +407,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="process_master_woker_worker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -439,11 +415,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/process_thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/process_thread/process_master_woker_worker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -452,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="process_master_worker_master" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="klass_get_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -460,11 +436,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/process_thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/klass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/process_thread/process_master_worker_master.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/klass/klass_get_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -473,7 +449,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="process_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="klass_property" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3-webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -481,11 +457,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/process_thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/klass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/process_thread/process_model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/klass/klass_property.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="klass_slots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/klass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/klass/klass_slots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -516,42 +513,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="thread_model_threadlocal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3-webapp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/process_thread" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/process_thread/thread_model_threadlocal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.sock_tcp_server" />
-      <item itemvalue="Python.thread_model_threadlocal" />
-      <item itemvalue="Python.process_master_worker_master" />
-      <item itemvalue="Python.process_model" />
-      <item itemvalue="Python.process_master_woker_worker" />
-      <item itemvalue="Python.io_file" />
+      <item itemvalue="Python.klass_get_info" />
+      <item itemvalue="Python.klass_slots" />
+      <item itemvalue="Python.klass_property" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.___init__" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.io_file" />
-        <item itemvalue="Python.process_master_woker_worker" />
-        <item itemvalue="Python.process_master_worker_master" />
-        <item itemvalue="Python.process_model" />
-        <item itemvalue="Python.thread_model_threadlocal" />
+        <item itemvalue="Python.___init__" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.klass_property" />
+        <item itemvalue="Python.klass_slots" />
+        <item itemvalue="Python.klass_get_info" />
       </list>
     </recent_temporary>
   </component>
@@ -587,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539774332437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="io file">
+      <created>1539860132777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539860132777</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -603,23 +586,23 @@
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.85139316" visible="true" weight="0.18133895" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85139316" visible="true" weight="0.18133895" />
       <window_info id="Structure" order="1" sideWeight="0.1486068" side_tool="true" visible="true" weight="0.18133895" />
       <window_info id="Favorites" order="2" sideWeight="0.5015674" side_tool="true" weight="0.18133895" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49815497" visible="true" weight="0.32071504" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49973643" weight="0.39852786" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49973643" weight="0.3283082" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.14721346" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49973643" weight="0.2555205" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32912722" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49815497" visible="true" weight="0.32071504" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49973643" weight="0.39852786" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49973643" weight="0.3283082" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49973643" weight="0.25446898" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.501845" side_tool="true" weight="0.27549946" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49973643" weight="0.36487907" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.14721346" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49973643" weight="0.36487907" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -637,67 +620,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flask" />
-    <option name="LAST_COMMIT_MESSAGE" value="flask" />
+    <MESSAGE value="io file" />
+    <option name="LAST_COMMIT_MESSAGE" value="io file" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/lib/python3.6/socketserver.py" />
-    <entry file="file://$PROJECT_DIR$/async_io/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/sign.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/db_sqlite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mail/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/db_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mail/mail_pop3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/email/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/mail/mail_send.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gui/__init__.py" />
     <entry file="file://$PROJECT_DIR$/alone_package/__init__.py" />
     <entry file="file://$PROJECT_DIR$/alone_package/avatar.jpg" />
@@ -807,13 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alone_package/alone_package_psutil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -958,7 +877,99 @@
     <entry file="file://$PROJECT_DIR$/io_action/io_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klass/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alone_package/alone_package_psutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klass/klass_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1539917202017" expanded="true" signature="120:754" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klass/klass_class_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1539919045752" expanded="true" signature="96:107" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klass/klass_extends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding>
+            <marker date="1539921400835" expanded="true" signature="266:476" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klass/klass_attribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klass/klass_get_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <marker date="1539922346029" expanded="true" signature="37:42" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klass/klass_slots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <marker date="1539930329130" expanded="true" signature="112:263" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/klass/klass_property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/___init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
