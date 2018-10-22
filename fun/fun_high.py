@@ -19,6 +19,7 @@ print(r)
 
 # 利用内置的处理个函数
 r = list(map(str, L))
+print('=================')
 print(r)
 
 
