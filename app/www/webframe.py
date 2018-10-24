@@ -1,13 +1,8 @@
 '''
 router
 '''
-import functools, inspect, logging, asyncio
+import functools, inspect, logging, asyncio, os
 from aiohttp import web
-
-
-async def handle_url_request(request):
-    pass
-
 
 def get(path, name):
     # @get装饰器，给处理函数绑定URL和HTTP method-GET的属性
@@ -15,11 +10,9 @@ def get(path, name):
         @functools.wraps(func)
         def wrapper(*args, **kw):
             return func(*args, **kw)
-
         wrapper.__method__ = 'GET'
         wrapper.__route__ = path
         return wrapper
-
     return decorator
 
 
@@ -28,11 +21,9 @@ def post(path):
         @functools.wraps(func)
         def wrapper(*args, **kw):
             return func(*args, **kw)
-
         wrapper.__method__ = "POST"
         wrapper.__route__ = path
         return wrapper
-
     return decorator
 
 
@@ -45,10 +36,9 @@ def has_request_arg(fn):
             found = True
             continue  # 退出本次循环
         # 如果找到‘request’参数后，还出现位置参数，就会抛出异常
-        if found and (
-                param.kind != inspect.Parameter.VAR_POSITIONAL and param.kind != inspect.Parameter.KEYWORD_ONLY and param.kind != inspect.Parameter.VAR_KEYWORD):
+        if found and (param.kind != inspect.Parameter.VAR_POSITIONAL and param.kind != inspect.Parameter.KEYWORD_ONLY and param.kind != inspect.Parameter.VAR_KEYWORD):
             raise ValueError(
-                'request parameter must be the last named parameter in function: %s%s' % (fn.__name__, str(sig)))
+                'request parameter must be the last named parameter in function: %s%s' % (fn.__name__, str('')))
     return found
 
 
